@@ -8,6 +8,7 @@ namespace InterviewbitAndLitcode
 {
     public static class PickFromBothSides
     {
+        //https://www.interviewbit.com/problems/pick-from-both-sides/
         public static int Solve(List<int> A, int B)
         {
             int n = A.Count;
