@@ -5,7 +5,12 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewbitAndLitcode", "InterviewbitAndLitcode\InterviewbitAndLitcode.csproj", "{3E746B91-4A00-4164-8478-6766AF367374}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewbitAndLitcode.Tests", "InterviewbitAndLitcode.Tests\InterviewbitAndLitcode.Tests.csproj", "{89E309CD-307A-40E5-AE35-7FD6C2A330C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewbitAndLitcode.Tests", "InterviewbitAndLitcode.Tests\InterviewbitAndLitcode.Tests.csproj", "{89E309CD-307A-40E5-AE35-7FD6C2A330C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1D0D721-CB74-48BA-B5BA-293998DF8FC1}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

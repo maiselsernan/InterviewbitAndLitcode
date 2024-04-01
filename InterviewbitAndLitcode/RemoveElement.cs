@@ -3,7 +3,7 @@
     //https://leetcode.com/problems/remove-element
     public class RemoveElement
     {
-        public int cMethod(int[] nums, int val)
+        public int RemoveElementMethod(int[] nums, int val)
         {
             var offset = 0;
             for (int i = 0; i < nums.Length; i++)
