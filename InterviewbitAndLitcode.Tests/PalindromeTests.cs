@@ -1,12 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using InterviewbitAndLitcode;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace InterviewbitAndLitcode.Tests
+﻿namespace InterviewbitAndLitcode.Tests
 {
     [TestClass()]
     public class PalindromeTests
